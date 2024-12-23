@@ -68,22 +68,14 @@ Each course directory contains:
 ```
 bca_7/
 ├── CACS401_CyberLaw/
-│   ├── notes/
-│   ├── assignments/
 │   └── resources/
 ├── CACS402_CloudComputing/
 │   ├── notes/
-│   ├── labs/
-│   └── resources/
 ├── CAIN103_Internship/
-│   ├── guidelines/
-│   └── templates/
 ├── Elective_AI/
 │   ├── notes/
-│   └── resources/
 └── Elective_SPM/
     ├── notes/
-    └── resources/
 ```
 
 ## 🔍 How to Use
