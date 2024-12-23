@@ -110,3 +110,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 ---
 
 **Note:** Keep checking this repository regularly for updates and new materials. Good luck with your studies! 🎓
+Keep checking this repository regularly for updates and new materials. If you find this helpful, please consider giving it a star! ⭐️ Good luck with your studies! 🎓
+<div align="center">
+Show some ❤️ by starring this repository!
+</div>
